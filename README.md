@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<br>🔭 I’m currently working on React<br>🌱 I’m currently learning NextJS and Zustand<br>👯 I’m looking to collaborate on React Web Apps <br> 💬 Ask me about the MERN Stack <br> 📫 Contact me - hasanify17@gmail.com
+<br>🔭 I’m currently working on React<br>🌱 I’m currently learning NextJS and Zustand<br>👯 I’m looking to collaborate on React Web Apps <br> 💬 Ask me about the MERN Stack <br> 📫 Contact me - hasanali.software@gmail.com
 
 # 💻 Tech Stack:
 
